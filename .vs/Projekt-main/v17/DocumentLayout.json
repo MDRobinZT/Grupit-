@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\components\\EventList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\src\\components\\EventList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\AddEvent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\src\\views\\AddEvent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\Events.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\src\\views\\Events.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\router\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\src\\router\\router.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\components\\AddEventForm.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\src\\components\\AddEventForm.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\models\\event.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\src\\models\\event.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\UpdateEvent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:teamtrack-frontend\\src\\views\\UpdateEvent.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEvent.vue",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\AddEvent.vue",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\src\\views\\AddEvent.vue",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\AddEvent.vue",
+              "RelativeToolTip": "teamtrack-frontend\\src\\views\\AddEvent.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-04-29T09:42:42.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventList.vue",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\components\\EventList.vue",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\src\\components\\EventList.vue",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\components\\EventList.vue",
+              "RelativeToolTip": "teamtrack-frontend\\src\\components\\EventList.vue",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAQwKQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-04-29T09:27:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\index.html",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\index.html",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\index.html",
+              "RelativeToolTip": "teamtrack-frontend\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-29T09:27:32.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "router.ts",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\router\\router.ts",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\src\\router\\router.ts",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\router\\router.ts",
+              "RelativeToolTip": "teamtrack-frontend\\src\\router\\router.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-29T09:27:08.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEventForm.vue",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\components\\AddEventForm.vue",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\src\\components\\AddEventForm.vue",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\components\\AddEventForm.vue",
+              "RelativeToolTip": "teamtrack-frontend\\src\\components\\AddEventForm.vue",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-04-29T09:25:48.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEvent.vue",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\UpdateEvent.vue",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\src\\views\\UpdateEvent.vue",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\UpdateEvent.vue",
+              "RelativeToolTip": "teamtrack-frontend\\src\\views\\UpdateEvent.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-04-29T09:25:26.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Events.vue",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\Events.vue",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\src\\views\\Events.vue",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\views\\Events.vue",
+              "RelativeToolTip": "teamtrack-frontend\\src\\views\\Events.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-04-29T09:25:22.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "event.ts",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\models\\event.ts",
+              "RelativeDocumentMoniker": "teamtrack-frontend\\src\\models\\event.ts",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\Projekt-main\\teamtrack-frontend\\src\\models\\event.ts",
+              "RelativeToolTip": "teamtrack-frontend\\src\\models\\event.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-29T09:23:49.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
